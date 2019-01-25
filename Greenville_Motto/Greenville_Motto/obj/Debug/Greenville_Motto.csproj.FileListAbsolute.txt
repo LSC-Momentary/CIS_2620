@@ -1,0 +1,2 @@
+C:\Users\vermi\source\repos\Greenville_Motto\Greenville_Motto\obj\Debug\Greenville_Motto.csprojAssemblyReference.cache
+C:\Users\vermi\source\repos\Greenville_Motto\Greenville_Motto\obj\Debug\Greenville_Motto.csproj.CoreCompileInputs.cache
